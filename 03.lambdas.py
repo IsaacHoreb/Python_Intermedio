@@ -2,13 +2,13 @@
 
 ### Lambdas ###
 
-def sum_two_values(
-    first_value, second_value): return first_value + second_value
+def sum_two_values(first_value, second_value): 
+    return first_value + second_value
 
 print(sum_two_values(2, 4))
 
-def multiply_values(
-    first_value, second_value): return first_value * second_value - 3
+def multiply_values(first_value, second_value): 
+    return first_value * second_value - 3
 
 print(multiply_values(2, 4))
 
